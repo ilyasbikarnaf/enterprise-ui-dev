@@ -50,5 +50,3 @@ jobs:
         with:
           name: coverage report
           path: coverage
-          node-version: 18
-          cache: 'npm'
